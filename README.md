@@ -72,6 +72,12 @@ We included datasets of forest cover (Hansen,2024) and protected areas polygons 
 
 # Data vis and summary methods
 
+
+![Forest Gain ](Images/ForestGain.png){width=50%}
+![Forest Loss](Images/ForestLoss.jpg){width=50%}
+![Workflow](Images/Workflow.jpg){width=50%}
+
+
 _*Describe your data visualisation, any mathematical summaries and/or any statistical methods that you used in brief. Include any relevant R code snippets.*_
 
 ```r
