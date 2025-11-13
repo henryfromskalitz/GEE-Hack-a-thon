@@ -65,7 +65,7 @@ We are predicting an increase in forest cover gain compared to forest cover loss
 
 # Methods
 
-_*Describe your methods in brief including all of the datasets that you used with appropriate crediting/referencing/copyright for the datasets.*_
+We included datasets of forest cover (Hansen,2024) and protected areas polygons (UNEP-WCMC and IUCN,2017) collected from the Google Earth Engine. Using javascript on EE, we visualised the forest cover and loss/gain of trees in Yellowstone. We visualised these changes over 16 years (2000-2016). In addition to visualising these changes on the map, we calculated the actual change in tree cover by creating a function to calculate yearly change. We then plotted these changes on R to visualise whether forest cover has increased or decline between 2000 and 2016. 
 
 
 # Data vis and summary methods
