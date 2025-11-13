@@ -1,16 +1,11 @@
-# challenge4-instructions
-_Instructions for Challenge 4 - Spatial analysis using the Google Earth Engine_
+# Spatial analysis using the Google Earth Engine_
 
 ## Has forest cover change occurred across protected areas?
-## Data Science Challenge
-### _25th November 2021_
+## Data Science Hack-a-thon
 
 ### Google Earth Engine link
 https://code.earthengine.google.com/
 
-If you need a login to access the script you can use the following:
-- Login: datascienceees@gmail.com
-- Password: DataScienceEES2019!
 
 Login to find the challenge script for your group.
 
