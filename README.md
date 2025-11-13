@@ -41,7 +41,8 @@ Forest Cover Change in Yellowstone, Using Data from Hansen et al. (2024)
 Kookslam13,
 Platgit,
 hermione244,
-henryfromskalitz 
+henryfromskalitz,
+TigFletch123
 
 # Research question
 __How much forest cover loss and gain has occurred in your protected area?__
