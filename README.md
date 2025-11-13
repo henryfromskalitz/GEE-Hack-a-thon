@@ -59,7 +59,7 @@ _*Write out or draw your workflow in text here, on paper or in a ppt slide and t
 # Specific hypotheses and predictions
 
 _*What do you know about this protected area?  What sort of factors could influence forest cover change in this part of the world?*_
-
+We are predicting an increased forest cover gain compared to forest cover loss in Yellowstone national park from the year 2000- 2016. Yellowstone has frequent volcanic activity, contributing to small area changes within the climate impacting the forest .Climate change could have a large influence over forest cover, changing the lengths of growing seasons, local temperatures, and regular extreme weather events. Commercial deforestation is banned within the national park but there are frequent natural disasters that can influence forest cover such a wildfires or increased rainfall leading to flooding. 
 
 # Methods
 
