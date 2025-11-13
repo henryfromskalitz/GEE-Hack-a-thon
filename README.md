@@ -33,13 +33,13 @@ _Use this document as a template to fill in as you progress through the challeng
 
 # Title
 
-_*Add here.*_
+Forest Cover Change in Yellowstone, Using Data from Hansen et al. (2024)
 
 
 # Authors
 
 Kookslam13
-
+Platgit
 
 # Research question
 __How much forest cover loss and gain has occurred in your protected area?__
