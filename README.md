@@ -42,7 +42,8 @@ Kookslam13,
 Platgit,
 hermione244,
 henryfromskalitz,
-TigFletch123
+TigFletch123,
+Leafyleaf4
 
 # Research question
 __How much forest cover loss and gain has occurred in your protected area?__
