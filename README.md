@@ -51,7 +51,7 @@ __How much forest cover loss and gain has occurred in your protected area?__
 
 # Introduction
 
-Yellowstone National Park is a 2.2 million acre area of temperate forest habitat making up the core of one of the largest nearly intact temperate-zone ecosystems on Earth - the Greater Yellowstone Ecosystem (National Park Service, 2025).  Approximately 80% of the park is forested, supporting a diverse range of communities, including rare top predators such as grey wolves and wolverines (National Park Service, 2025).  Subalpine forest ecosystems are dominated by the lodgepole pine (*Pinus contorta*) and experience short term growth and loss due to the park's wildfire regime.  This study aims to analyse the annual growth and loss of forest in Yellowstone National Park, using the "Global Forest Change" dataset from Hansen et al (2024).
+Yellowstone National Park is a 2.2 million acre area of temperate forest habitat in the USA making up the core of one of the largest nearly intact temperate-zone ecosystems on Earth - the Greater Yellowstone Ecosystem (National Park Service, 2025).  Approximately 80% of the park is forested, supporting a diverse range of communities, including rare top predators such as grey wolves and wolverines (National Park Service, 2025).  Subalpine forest ecosystems are dominated by the lodgepole pine (*Pinus contorta*) and experience short term growth and loss due to the park's wildfire regime.  This study aims to analyse the annual growth and loss of forest in Yellowstone National Park, using the "Global Forest Change" dataset from Hansen et al (2024).
 
 
 # Workflow
