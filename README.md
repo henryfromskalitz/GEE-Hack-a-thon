@@ -11,7 +11,7 @@ Login to find the challenge script for your group.
 
 Link to the GEE scripts: 
 
-- Group 1: https://code.earthengine.google.com/ac3ddea0c65a560931f17bd9bb178136
+- Group 1: [https://code.earthengine.google.com/ac3ddea0c65a560931f17bd9bb178136](https://code.earthengine.google.com/dccd370a77c76697c72e154966af36ab)
 - Group 2: https://code.earthengine.google.com/d34419a235b1e84f802c7007210ba170
 - Group 3: https://code.earthengine.google.com/85d27e7b0a4c3d381ea14d45ac098cba
 - Group 4: https://code.earthengine.google.com/3f911d57652eb8ae74af9fb5f4a4c34d
