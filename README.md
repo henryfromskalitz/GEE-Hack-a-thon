@@ -17,7 +17,7 @@ Link to the GEE scripts:
 - Group 4: [https://code.earthengine.google.com/3f911d57652eb8ae74af9fb5f4a4c34d](https://code.earthengine.google.com/0aa119eaa5c359a35fb841fecf4ba929)
 - Group 5: [https://code.earthengine.google.com/8e3b174404344696b6a5c1d1c2625a22](https://code.earthengine.google.com/13bb4502b7be4b12cc6ee0751d63c9b2)
 - Group 6: [https://code.earthengine.google.com/13bb4502b7be4b12cc6ee0751d63c9b2](https://code.earthengine.google.com/49f49302ffd64862a86202b3410d0961)
-- Group 7: 
+- Group 7: https://code.earthengine.google.com/6262f6238b491f9ca8a1340f22fd0f31
 
 # Overarching goal
 _*Investigate forest cover change across protected areas.*_
